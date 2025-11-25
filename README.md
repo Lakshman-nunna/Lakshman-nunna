@@ -76,9 +76,10 @@
 
 ---
 
+
 ## 🐍 Contributions Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lakshman-nunna/Lakshman--Nunna/main/output/graph.png" alt="GitHub Contributions Snake">
+  <img src="https://raw.githubusercontent.com/Lakshman-nunna/Lakshman-nunna/main/output/graph.png" alt="GitHub Contributions Snake">
 </p>
 
 
@@ -102,6 +103,7 @@
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
+
 
 <p align="center">
  <kbd> Thanks for visiting my GitHub Profile! </kbd>
